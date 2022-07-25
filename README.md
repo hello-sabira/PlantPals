@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# Plant Pals
+A fully responsive volunteering organization website supporting environmental causes.
+
+Technologies used:
+- React
+- React icons
+- Framer motion
+- Styled components
+- Netlify
+
+Happy coding! 
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
